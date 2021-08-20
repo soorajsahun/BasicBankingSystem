@@ -1,0 +1,30 @@
+*{margin:0 ;padding: 0;box-sizing: border-box;}
+
+.carousel-inner img {
+  width: 100%;
+  height: 50vh;
+}
+.intro {
+  background: #EAF0F1;
+}
+h1:hover {
+  transform: scale(1.1);
+}
+h1 {
+  color: #4C4B4B;
+  font-weight: bold;
+  transition: 0.3s;
+  text-align: center;
+}
+footer {
+  display: block;
+  color: #586776;
+  background-color: #EAF0F1;
+  letter-spacing: 0.5px;
+}
+
+footer p {
+  margin: 0;
+  font-size: 15px;
+}
+
